@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webapidockerize", "webapidockerize\webapidockerize.csproj", "{152732FD-6692-462B-B2B8-5EB15E39F00A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{152732FD-6692-462B-B2B8-5EB15E39F00A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{152732FD-6692-462B-B2B8-5EB15E39F00A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{152732FD-6692-462B-B2B8-5EB15E39F00A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{152732FD-6692-462B-B2B8-5EB15E39F00A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
